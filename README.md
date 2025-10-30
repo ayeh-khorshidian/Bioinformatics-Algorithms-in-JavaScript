@@ -1,9 +1,83 @@
-# Bioinformatics | Algorithms in JavaScript
+# 🧬 Bioinformatics | Algorithms in JavaScript
 
-These Bioinformatics HTML5/JS files accompany the book entitled: <i>Algorithms in Bioinformatics: Theory and Implementation</i>, and they are compatible with all internet browsers. These algorithms include more than 120 open-source implementations that describe the following: 1. A detailed presentation of new methods, such as Self-sequence alignment, Objective Digital Stains and Spectral Forecast. 2. A treatment of sequence alignment, including local sequence alignment, global sequence alignment and forced sequence alignment with full implementations. 3. Discussions of position-specific weight matrices, including the count, weight, relative frequencies, and log-likelihoods matrices. 4. A detailed presentation of the methods related to Markov Chains as well as a description of their implementation in Bioinformatics and adjacent fields. 5. An examination of information and entropy, including sequence logos and explanations related to their meaning. 6. An exploration of the current state of bioinformatics, including what is known and what issues are usually avoided in the field. 7. Native computer implementations in the context of the field of Bioinformatics. 8. Extensive worked examples with detailed case studies that point out the meaning of different results.
+These Bioinformatics HTML5/JS files accompany the book:
 
-![screenshot](https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/blob/main/Bioinformatics.png?raw=true)
+> **_Algorithms in Bioinformatics: Theory and Implementation_**  
+> by *Paul A. Gagniuc*
 
-# References
+They are compatible with all modern web browsers and include **120+ open-source algorithm implementations** demonstrating a wide range of bioinformatics techniques and concepts.
 
-- <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
+---
+
+## 📘 Overview
+
+This project provides implementations and explanations for key bioinformatics algorithms and theoretical concepts.  
+The topics covered include:
+
+1. 🧠 **New Methods**  
+   - Self-sequence alignment  
+   - Objective Digital Stains  
+   - Spectral Forecast  
+
+2. 🧩 **Sequence Alignment**  
+   - Local sequence alignment  
+   - Global sequence alignment  
+   - Forced sequence alignment  
+   - Full implementation examples  
+
+3. 🧮 **Position-Specific Weight Matrices**  
+   - Count matrices  
+   - Weight matrices  
+   - Relative frequency matrices  
+   - Log-likelihood matrices  
+
+4. 🔗 **Markov Chains**  
+   - Mathematical principles  
+   - Implementations in Bioinformatics  
+   - Applications in adjacent computational fields  
+
+5. 📊 **Information & Entropy**  
+   - Sequence logos  
+   - Entropy-based interpretations and visualizations  
+
+6. 🌐 **Bioinformatics Landscape**  
+   - Current knowledge  
+   - Ongoing challenges in the field  
+   - Common misconceptions  
+
+7. 💻 **Native Implementations**  
+   - Algorithms coded in **JavaScript (HTML5)**  
+   - Interactive browser-ready demonstrations  
+
+8. 🧫 **Case Studies & Examples**  
+   - Step-by-step algorithmic workflows  
+   - Real-world biological data analysis  
+   - In-depth interpretation of results  
+
+---
+
+## 🖼️ Screenshot
+
+![Bioinformatics Algorithms Screenshot](https://github.com/Gagniuc/Bioinformatics-Algorithms-in-JavaScript/blob/main/Bioinformatics.png?raw=true)
+
+---
+
+## 📚 Reference
+
+> **Paul A. Gagniuc.**  
+> *Algorithms in Bioinformatics: Theory and Implementation.*  
+> John Wiley & Sons, Hoboken, NJ, USA, 2021.  
+> **ISBN:** 9781119697961  
+
+---
+
+### 🧠 Author’s Note
+
+This repository serves as a valuable educational resource for students, researchers, and enthusiasts who wish to explore **algorithmic thinking in bioinformatics using JavaScript**.
+
+---
+
+### ⭐ Support
+
+If you find this work helpful, consider giving the repository a **star** 🌟  
+Your support helps promote open-source learning in computational biology!
